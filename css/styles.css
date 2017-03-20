@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Questrial);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+h1{
+  color:white;
+  font-family:"Questrial", sans-serif;
+  font-size:80px;
+  text-align:center;
+}
+
+h2{
+  color:white;
+  font-family:"Indie Flower";
+  font-size:20px;
+  margin-bottom:30px;
+  text-align:center;
+}
+
+body {
+  background-color: black;
+  margin: 0 auto;
+  max-width: 600px;
+  min-width: 200px;
+}
+
+.quote-box {
+  background-color: #e6e6e6;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 50px;
+  width: 500px;
+}
+
+.quote-text{
+  color: black;
+  font-family: "Questrial";
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.quote-author {
+  color: black;
+  font-size: 16px;
+  font-style: italic;
+  margin-bottom: 5px;
+  text-align: right;
+}
+
+.buttons{
+  font-family: "FontAwesome";
+  height: 0px;
+  margin-top: 30px;
+}
+
+.button{
+  background-color: white;
+  border-color: black;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  color: black;
+  float: right;
+  font-family: sans-serif;
+  padding: 4px;
+}
+
+#tweet-quote {
+  background-color: white;
+  border-color: black;
+  float: left;
+  font-size: 1.2em;
+  height: 30px;
+  margin-right: 5px;
+  padding-top: 8px;
+  padding: 0px;
+  text-align: center;
+  width: 40px;
+}
+
+.footer {
+  color: white;
+  font-family: "Indie Flower";
+  font-size: 20px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.quote-left-img {
+  width: 5%;
+}
+
+.twitter-icon {
+  width: 60%;
+}
