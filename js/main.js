@@ -1,4 +1,4 @@
-var forismaticAPI = 'http://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=?'
+var forismaticAPI = 'https://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=?'
 
 var currentQuote = ''
 var currentAuthor = ''
