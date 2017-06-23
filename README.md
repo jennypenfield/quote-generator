@@ -1,3 +1,5 @@
-The Random Quote Generator pulls quotes from the forismatic API. There is a button to tweet out the quote and to generate a new one.
+This Random Quote Generator pulls quotes from the [Forismatic API](https://forismatic.com/en/api/). 
 
-https://jennypenfield.github.io/quote-generator/
+There are buttons to tweet the quote and to generate a new quote.
+
+View on [Surge](http://godly-crow.surge.sh/)
