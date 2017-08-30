@@ -26,31 +26,36 @@ body {
 .quote-box {
   background-color: #e6e6e6;
   border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  height: 15vw;
   margin: 0 auto;
-  padding: 50px;
-  width: 500px;
+  padding: 1vw;
+  width: 30vw;
 }
 
 .quote-text{
   color: black;
+  height: 8vw;
   font-family: "Questrial";
   font-size: 20px;
-  margin-bottom: 20px;
+  padding-top: 1vw;
   text-align: center;
 }
 
 .quote-author {
   color: black;
+  height: 4vw;
   font-size: 16px;
   font-style: italic;
-  margin-bottom: 5px;
+  padding-right: 2vw;
   text-align: right;
 }
 
 .buttons{
   font-family: "FontAwesome";
-  height: 0px;
-  margin-top: 30px;
+  height: 2vw;
+  padding: 0 2vw 0 2vw;
 }
 
 .button{
